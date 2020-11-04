@@ -4,6 +4,6 @@ no entrar solo es para practica
 
 enlace a tu pagina de fb, blog, pagina comercial para que se puede encontrar mas informacion sobre el proyecto.
 
-ok todo bien!
+
 
 [visita mi blog](www.google.com)
